@@ -19,4 +19,4 @@ Dart and javascript
 [![Discord Presence](https://lanyard.cnrad.dev/api/777794989940801550)](https://discord.com/users/777794989940801550)
 # Anilist 
 
-<img width="500" alt="https://img.anili.st/User/6046243" src="https://img.anili.st/User/6046243%22/%3E
+<img width="500" alt="https://img.anili.st/User/6046243" src="https://img.anili.st/User/6046243"/>
