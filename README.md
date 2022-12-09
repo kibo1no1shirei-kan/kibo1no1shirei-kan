@@ -17,7 +17,9 @@ Dart and javascript
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kibo1no1shirei-kan&langs_count=10%&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1> Discord </h1>
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/777794989940801550)](https://discord.com/users/777794989940801550)
+
 <h1> Anilist <h1/>
 
 <img width="500" alt="https://img.anili.st/User/6046243" src="https://img.anili.st/User/6046243"/>
