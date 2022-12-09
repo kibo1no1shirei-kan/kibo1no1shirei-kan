@@ -6,8 +6,8 @@
 #
 <div align="center"> [![Discord Presence](https://lanyard.cnrad.dev/api/777794989940801550)](https://discord.com/users/777794989940801550)
 #
- <div align="center">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kibo1no1shirei-kan&count_private=true%show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+ <div align="center"> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kibo1no1shirei-kan&count_private=true%show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 #
- <div align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kibo1no1shirei-kan&langs_count=10%&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ <div align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kibo1no1shirei-kan&langs_count=10%&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/777794989940801550)](https://discord.com/users/777794989940801550)
