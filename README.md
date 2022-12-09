@@ -1,4 +1,4 @@
-<div align="center"> My Projects
+My Projects
 #
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kibo1no1shirei-kan&repo=W-discord-bot&show_owner=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
