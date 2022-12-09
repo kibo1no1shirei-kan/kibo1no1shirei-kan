@@ -8,8 +8,8 @@ Dart and javascript
 # My Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kibo1no1shirei-kan&repo=W-discord-bot&show_owner=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-Stats
-#
+
+# Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kibo1no1shirei-kan&count_private=true%show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 #
