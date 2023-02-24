@@ -1,5 +1,5 @@
 Kibo1no1shirei-kan
-A weeb and a dev
+A professional weeb and a noob dev
 
 Trying to learn
 Dart and javascript
