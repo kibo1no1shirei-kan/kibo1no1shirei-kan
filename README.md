@@ -34,12 +34,9 @@ Learning Japanese
 
 Thinking way too much about politics, systems, and strategy
 
-Hack Club projects + hackathons (love the energy there)
-
 🎯 Long-term Vision
 
 Trying to learn 🇯🇵 
-pass high school
 get money!
 maybe get a job
 
