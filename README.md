@@ -15,6 +15,8 @@ University of Aizu (perfect for CS/game dev!)
 University of Tsukuba
 Why Japan? I am a weeb since i was 13, and i saw its fantasy verstion however right now its Hotubs and the perception of riding trains and eating ramen after working.
 
+Right now i am at collage prep for 2027-2028 in take
+
 
 🎨 Creative Goals
 
